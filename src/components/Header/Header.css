@@ -1,0 +1,32 @@
+/* Header.css */
+.header-background {
+  background-image: url('../../../images/header.png'); /* Update this path */
+  background-size: cover; /* Make the image cover the entire area */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  width: 100%; /* Make sure it spans the full width */
+  height: 100vh; /* Adjust the height as needed */
+}
+
+.navbar a {
+  margin-right: 15px; /* Adjust the value as needed */
+}
+
+.heading-text {
+  color: rgb(255, 255, 255); /* Ensure text is visible over the background */
+  text-align: center; /* Center the heading text */
+  padding-top: 60px; /* Adjust padding to position the text */
+  font-size: 60px;
+
+}
+
+.navbar {
+  background: wheat; /* Semi-transparent background for the navbar */
+  padding: 10px 20px; /* Adjust padding as needed */
+}
+
+.logo {
+  width: 100px; /* Adjust logo size */
+}
+
+
